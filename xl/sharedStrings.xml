@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="16" uniqueCount="16">
+<si>
+<t>Individual Goals</t>
+</si>
+<si>
+<t>Goal Section</t>
+</si>
+<si>
+<t>Goal</t>
+</si>
+<si>
+<t>Description</t>
+</si>
+<si>
+<t>Count of Activity Items</t>
+</si>
+<si>
+<t>Goal Category</t>
+</si>
+<si>
+<t>Status</t>
+</si>
+<si>
+<t>Due Date</t>
+</si>
+<si>
+<t>Completed On</t>
+</si>
+<si>
+<t>Associated Reviews</t>
+</si>
+<si>
+<t>In Progress Business Goals</t>
+</si>
+<si>
+<t>In Progress Development Goals</t>
+</si>
+<si>
+<t>Completed Business Goals</t>
+</si>
+<si>
+<t>Completed Development Goals</t>
+</si>
+<si>
+<t>No Longer Applicable Business Goals</t>
+</si>
+<si>
+<t>No Longer Applicable Development Goals</t>
+</si>
+</sst>
